@@ -7,7 +7,7 @@ global.prems = ['79111259391']
 
 //『 Info Owner 』 //
 global.nameowner = '⫹⫺ Owner'
-global.numberowner = '79111259391'
+global.numberowner = '6222222222222'
 global.instagram = 'https://instagram.com/prm2.0'
 global.github = 'https://github.com/BOTCAHX'
 global.dana = '79111259391'
